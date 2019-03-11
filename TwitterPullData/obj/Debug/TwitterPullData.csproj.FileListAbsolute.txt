@@ -1,0 +1,11 @@
+C:\Users\ardne\source\repos\TwitterPullData\TwitterPullData\obj\Debug\TwitterPullData.csprojAssemblyReference.cache
+C:\Users\ardne\source\repos\TwitterPullData\TwitterPullData\obj\Debug\TwitterPullData.csproj.CoreCompileInputs.cache
+C:\Users\ardne\source\repos\TwitterPullData\TwitterPullData\bin\Debug\TwitterPullData.exe.config
+C:\Users\ardne\source\repos\TwitterPullData\TwitterPullData\bin\Debug\TwitterPullData.exe
+C:\Users\ardne\source\repos\TwitterPullData\TwitterPullData\bin\Debug\TwitterPullData.pdb
+C:\Users\ardne\source\repos\TwitterPullData\TwitterPullData\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ardne\source\repos\TwitterPullData\TwitterPullData\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\ardne\source\repos\TwitterPullData\TwitterPullData\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ardne\source\repos\TwitterPullData\TwitterPullData\obj\Debug\TwitterPullData.csproj.CopyComplete
+C:\Users\ardne\source\repos\TwitterPullData\TwitterPullData\obj\Debug\TwitterPullData.exe
+C:\Users\ardne\source\repos\TwitterPullData\TwitterPullData\obj\Debug\TwitterPullData.pdb
